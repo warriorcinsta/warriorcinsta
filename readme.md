@@ -4,6 +4,12 @@
     <img src="https://github.com/warriorcinsta/warriorcinsta/blob/main/1.png">
   </a>
 </p>
+
+<!-- Persona Peeks -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=warriorcinsta&label=Persona+Peeks&color=blue" alt="Persona Peeks">
+</p>
+
 <h1 align="center" style="color:#7109AA;">👋 Welcome to warriorcinsta's Hub!</h1>
 
 <p align="center">
