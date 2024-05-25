@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/warriorcinsta">
-    <img src="https://img.shields.io/github/followers/k4torm?label=Followers&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/warriorcinsta?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
 
