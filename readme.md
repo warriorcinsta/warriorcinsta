@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/warriorcinsta">
-    <img src="https://github.com/warriorcinsta/warriorcinsta/blob/main/1.png">
+    <img src="https://github.com/warriorcinsta/warriorcinsta/blob/main/Image.png">
   </a>
 </p>
 
