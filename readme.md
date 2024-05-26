@@ -22,7 +22,7 @@
 <!-- Introduction -->
 <div align="center" style="background-color:#F7F7F7; padding: 20px; border-radius: 10px;">
   <h3>🔍 About Me</h3>
-  <p>As an avid coder and encryption expert, I plunge into the depths of cybersecurity, navigating the dark web and fortifying digital safeguards. Join me on this exhilarating journey through code!</p>
+  <p>As a passionate coder and encryption maestro, I delve into the depths of cybersecurity, charting the dark web and fortifying digital defenses. Embark with me on this thrilling voyage through the realms of code!</p>
 </div>
 
 <!-- Skills Highlight -->
